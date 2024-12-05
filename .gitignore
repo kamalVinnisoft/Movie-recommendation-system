@@ -1,0 +1,33 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+*.pkl
+*.csv
+
+# Django-related
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+db.*
+migrations/
+media/
+staticfiles/
+
+# Environment variable file
+.env
+
+# VS Code settings
+.vscode/
+
+# MacOS related
+.DS_Store
+
+# Windows related
+Thumbs.db
